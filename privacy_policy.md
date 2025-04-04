@@ -1,7 +1,7 @@
 # 세라핌(Seraphim) 개인정보처리방침
 
 ## 제1조 (개인정보의 처리 목적)
-세라핌('https://jeongkyukang.github.io/seraphim-privacy-policy/'이하 '세라핌')은 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
+세라핌('https://jeongkyukang.github.io/seraphim-privacy-policy '이하 '세라핌')은 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
 - 상담 서비스 제공 및 결과 저장
 - 커뮤니티 서비스 제공
 - 날씨 정보 기반 서비스 제공
